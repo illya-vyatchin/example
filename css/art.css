@@ -1,0 +1,23 @@
+body {
+	font-size: 50px;
+	background-color: blue;
+}
+.p1 {
+	font-family: "Montserrat", sans-serif; 
+	}
+.p2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    background-color: yellow;
+    color: green;
+}
+.p3 {
+    font-family: "Inter", sans-serif;
+}
+.p4 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+}
+
+
+

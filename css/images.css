@@ -1,0 +1,33 @@
+body {
+	background-color: red;
+	background-image: url(https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif);
+  backround-size: 200px;
+  background-repeat: no-repeat;
+  background-poistion: 100% 100%;
+  background-attachment: fixed;
+  }
+  p{
+  	font-size: 8.8in;
+  	background-image: url(https://burst.shopifycdn.com/photos/city-lights-through-rain-window.jpg?width=1000&format=pjpg&exif=0&iptc=0);
+    background-size: cover;
+    color: violet;
+  }
+div{
+	width: 500px;
+	height: 500px;
+}
+#di{
+	background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/gray/BXLROLUVPBHNZEWGJJSSBUQZTM.jpg);
+background-size: cover;
+}
+#img1{
+	width: 50%
+	border: ridge 30px orange;
+}
+#img2{
+	display: block;
+	margin: auto;
+	width: 50%;
+	border-radius: 50%;
+	box-shadow: ;
+}

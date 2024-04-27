@@ -1,0 +1,12 @@
+.a1{
+	text-decoration: none;
+}
+.a1:hover{
+    text-decoration: underline;
+}
+.a1:active{
+	color: orange;
+}
+ul{
+	list-style-type: none;
+}

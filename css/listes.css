@@ -1,0 +1,25 @@
+body{
+	background-color: lightcoral;
+}
+p{
+	font-size: 50px;
+     font-family: "Pacifico", cursive;
+     text-align: center;
+     color: mediumaquamarine;
+     background-color: yellow;
+}
+ul,ol{
+	font-size: 24px;
+	color: navajowhite;
+}
+.l1 li::marker{
+	color: greenyellow;
+	font-size: 1.1en;
+}
+.l2{
+	
+}
+ol{
+	margin-left: 50px;
+	
+}

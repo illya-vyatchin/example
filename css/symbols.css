@@ -1,0 +1,23 @@
+body{
+	background-color: lightsalmon;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+	background-color: lightskyblue;
+	}
+.ex1{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.ex2{
+	font-family: cursive;
+	font-weight: 700;
+}
+.ex3{
+font-family: "Pacifico", cursive;
+}
+.ex4{
+font-family: "Rubik Glitch Pop", system-ui;
+color: red;
+background-color: black;
+}

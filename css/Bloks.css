@@ -1,0 +1,28 @@
+body{
+	background-color: violet;
+}
+p{
+  background-color: purple;
+  color: orange;
+  font-size: 50 px;
+ 
+}
+.p2{
+	display: inline;
+}
+.p1 span{
+	font-style: italic;
+	background-color: fuchsia;
+	border: 5px dashed red;
+	display: inline-block;
+}
+#first{
+	width: 400px;
+	height: 400px;
+	background-color: olive;
+    align-items: center;
+	justify-content: center;
+	display: flex;
+	font-size: 48px;
+	border-style: 20px;
+}
